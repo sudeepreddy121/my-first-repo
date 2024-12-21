@@ -1,0 +1,15 @@
+# Ignore system and user-specific directories
+AppData/
+Documents/
+Local Settings/
+NTUSER.*
+ntuser.*
+
+# Ignore hidden system files
+*.ini
+*.log
+*.regtrans-ms
+*.blf
+
+# Ignore all subdirectories
+*/
